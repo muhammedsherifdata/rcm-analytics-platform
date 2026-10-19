@@ -1,0 +1,13 @@
+provider_id,provider_name,city,country,provider_type
+1,Riyadh Central Hospital,Riyadh,KSA,General
+2,Jeddah Specialist Clinic,Jeddah,KSA,Specialty
+3,Dammam Medical Center,Dammam,KSA,General
+4,Dubai Care Hospital,Dubai,UAE,General
+5,Abu Dhabi Heart Institute,Abu Dhabi,UAE,Specialty
+6,Sharjah Family Clinic,Sharjah,UAE,Clinic
+7,Cairo University Hospital,Cairo,Egypt,General
+8,Alexandria Medical Center,Alexandria,Egypt,General
+9,Giza Specialty Hospital,Giza,Egypt,Specialty
+10,Nile Care Clinic,Cairo,Egypt,Clinic
+11,Amman Medical City,Amman,Jordan,General
+12,Irbid Community Hospital,Irbid,Jordan,General

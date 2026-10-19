@@ -1,0 +1,17 @@
+payer_id,payer_name,country,payer_type
+1,Bupa Arabia,KSA,Private
+2,Tawuniya,KSA,Private
+3,MedGulf,KSA,Private
+4,Saudi Social Insurance,KSA,Government
+5,Daman,UAE,Government
+6,Thiqa,UAE,Government
+7,Neuron,UAE,Private
+8,Oman Insurance,UAE,Private
+9,Health Insurance Organization,Egypt,Government
+10,Misr Insurance,Egypt,Private
+11,AXA Egypt,Egypt,Private
+12,MetLife Egypt,Egypt,Private
+13,Allianz Egypt,Egypt,Private
+14,Jordan Insurance,Jordan,Private
+15,Arab Orient Takaful,Jordan,Private
+16,Royal Medical Services,Jordan,Government

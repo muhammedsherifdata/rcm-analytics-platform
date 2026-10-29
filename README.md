@@ -30,9 +30,9 @@ python src/generate_data.py
 
 ## Roadmap
 - [x] Phase 0: repository, synthetic data generator, data dictionary
-- [ ] Phase 1: SQL Server staging and data profiling
-- [ ] Phase 2: cleaning views and star schema
-- [ ] Phase 3: data quality checks and ETL procedures
+- [x] Phase 1: SQL Server staging and data profiling
+- [x] Phase 2: cleaning views and star schema
+- [x] Phase 3: data quality checks and ETL procedures
 - [ ] Phase 4: Power BI model, DAX measures and row-level security
 - [ ] Phase 5: performance tuning (before and after)
 - [ ] Phase 6: denial analysis and executive report
